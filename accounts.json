@@ -1,37 +1,34 @@
 {
-  "88091": {
-    "description": "───────────────────  lenen8807@gmail.com ───────────────────",
+  "lenen8866": {
+    "description": "lenen8866@gmail.com",
+    "endpoint": "https://bff33ecaf521d4d013c33e83372b4794.r2.cloudflarestorage.com",
+    "access_key": "6763ed1876d7c059f66fe1c2c801b330",
+    "secret_key": "ad8c1f904a9a750229473456f1078f1e6317f94eca470a55758595d36187660f",
+    "bucket": "sda777",
+    "public_url": "https://pub-948f6efc03b94a248ced251481b67b96.r2.dev"
+  },
+  "lenen8809": {
+    "description": "lenen8809@gmail.com",
     "endpoint": "https://0eca39be3a69a28cff7767bd09d7a62c.r2.cloudflarestorage.com",
     "access_key": "e24a86edf6cf0be80407f96c532e268a",
     "secret_key": "aa17beafa99da92ddf39719a0141f8a821f8568326a5ef0e467cd12fd9ee8a92",
     "bucket": "8809",
     "public_url": "https://pub-d2d4513e74504f0c88ca390e1865d0e6.r2.dev"
   },
-
-  "sda7771": {
-    "description": "───────────────────  lenen8807@gmail.com ───────────────────",
+  "lenen8807": {
+    "description": "lenen8807@gmail.com",
     "endpoint": "https://c42d54993e7f68196968ce25528cf12e.r2.cloudflarestorage.com",
     "access_key": "773f2e66f0f183ba7ff2498db3e3b7d4",
     "secret_key": "a6801409c250c8dfa28f94f75f2a0a8357accb69b1f97be1fee1d7ff515f8477",
     "bucket": "sda777",
     "public_url": "https://pub-e597a61b26f44dbcae3a16e6519c1209.r2.dev"
   },
-    "Aiiasfood7": {
-    "description": "───────────────────  Aiiasfood7@gmail.com ───────────────────",
+  "Aiiasfood7": {
+    "description": "Aiiasfood7@gmail.com",
     "endpoint": "https://40a8c8445f5e4140b6d07412a050d389.r2.cloudflarestorage.com",
-    "access_key": "f2777b68eced17495c11ba035469e198",
-    "secret_key": "f3906acce1c748e3df6c46d2e35bd973573270ea01ce9b01af0e6bf6c5cfd2fc",
-    "bucket": "Aiiasfood7",
+    "access_key": "88e691b7b6127cf467319331c99a95f3",
+    "secret_key": "520627bd9144af8654ec3394188a500777f654428fb2bb63b0b535dde4f8a99e",
+    "bucket": "aiiasfood",
     "public_url": "https://pub-db4a7f7345cc4b7f8da4fe83b5a8de7d.r2.dev"
-  },
-
-  "backup1": {
-    "description": "─────────────────── lenen8866@gmail.com ───────────────────",
-    "endpoint": "https://bff33ecaf521d4d013c33e83372b4794.r2.cloudflarestorage.com",
-    "access_key": "1b8d6e65c25ed6bfa985a1967c3cf31e",
-    "secret_key": "42948cb52c718bbd408d11544a13feb3eabe58e9f9e609efcae577bcda0269e9",
-    "bucket": "sda777",
-    "public_url": "https://pub-948f6efc03b94a248ced251481b67b96.r2.dev"
   }
 }
-
