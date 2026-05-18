@@ -54,5 +54,13 @@
     "secret_key": "eb2f0b0450325d9edd9ff839f1b3e80d22aecb338ac2b7166dec20225e559c3f",
     "bucket": "sda777",
     "public_url": "https://pub-7ca53204de3f40149dd5a9b752eee349.r2.dev"
+  },
+  "Admin@sdattg.vip": {
+    "description": "Admin@sdattg.vip(Wainighl123.)",
+    "endpoint": "https://807bd8a1cac28993a102c6456bf0caae.r2.cloudflarestorage.com",
+    "access_key": "8e90fcb6c848c3e9819ae545147db53d",
+    "secret_key": "bc73ac71df400196d2c783407081dddff242a16d274933ba935bb6899a28afe5",
+    "bucket": "sda777",
+    "public_url": "https://pub-599e888858374a30b7854bff5a63af8e.r2.dev"
   }
 }
