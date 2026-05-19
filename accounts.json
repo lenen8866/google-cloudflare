@@ -62,5 +62,13 @@
     "secret_key": "bc73ac71df400196d2c783407081dddff242a16d274933ba935bb6899a28afe5",
     "bucket": "sda777",
     "public_url": "https://pub-599e888858374a30b7854bff5a63af8e.r2.dev"
+  },
+  "Lenen0001": {
+    "description": "Lenen0001@sdattg.vip",
+    "endpoint": "https://16a726c56d57e3455267476170c3ea2c.r2.cloudflarestorage.com",
+    "access_key": "717a0699857a731e3750fb24df07d0b3",
+    "secret_key": "3029dd001ce5302036163e340914dbccd14df2f6cbe2ffe6c9b2183ca2df7bce",
+    "bucket": "sda777",
+    "public_url": "https://pub-c99e5e6f0ca44e7f91e58166661208d5.r2.dev"
   }
 }
